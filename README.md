@@ -5,17 +5,17 @@ This is an online Coding Assignment of EiStudy which includes the code of Satell
 This is a simple Satellite Command System implemented in Java. The Source code is available in src folder.
 
 ## Features
-1.Display State: View the current orientation, status of solar panels, and data collected by the satellite.
-2.Rotate: Implement a command called 'rotate' that takes a direction parameter (North, South, East, West) and sets the satellite's
+ - Display State: View the current orientation, status of solar panels, and data collected by the satellite.
+ - Rotate: Implement a command called 'rotate' that takes a direction parameter (North, South, East, West) and sets the satellite's
 orientation accordingly.
 Example: rotate(North) would set the orientation to "North".
-3. Activate/Deactivate Solar Panels: Implement commands called 'activatePanels' and 'deactivatePanels' to control the solar panels'
+ - Activate/Deactivate Solar Panels: Implement commands called 'activatePanels' and 'deactivatePanels' to control the solar panels'
 status.
 Example: activatePanels() would set the solar panels to "Active".
-4.Collect Data: Implement a command called 'collectData' that increments the 'Data Collected' attribute by 10 units, but only if the solar
+ -Collect Data: Implement a command called 'collectData' that increments the 'Data Collected' attribute by 10 units, but only if the solar
 panels are "Active".
 Example: collectData() would set the data collected to 10 if the solar panels are "Active".
-5.Exit: Quit the Satellite Command System and terminate the program.
+ - Exit: Quit the Satellite Command System and terminate the program.
 ## Usage
 
 1. Compile the Java code:
