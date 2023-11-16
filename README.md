@@ -12,7 +12,7 @@ Example: rotate(North) would set the orientation to "North".
  - Activate/Deactivate Solar Panels: Implement commands called 'activatePanels' and 'deactivatePanels' to control the solar panels'
 status.
 Example: activatePanels() would set the solar panels to "Active".
- -Collect Data: Implement a command called 'collectData' that increments the 'Data Collected' attribute by 10 units, but only if the solar
+ - Collect Data: Implement a command called 'collectData' that increments the 'Data Collected' attribute by 10 units, but only if the solar
 panels are "Active".
 Example: collectData() would set the data collected to 10 if the solar panels are "Active".
  - Exit: Quit the Satellite Command System and terminate the program.
