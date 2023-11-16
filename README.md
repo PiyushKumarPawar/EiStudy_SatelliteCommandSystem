@@ -1,5 +1,3 @@
-# EiStudy_SatelliteCommandSystem
-This is an online Coding Assignment of EiStudy which includes the code of Satellite Command System .
 # Satellite Command System
 
 This is a simple Satellite Command System implemented in Java. The Source code is available in src folder.
