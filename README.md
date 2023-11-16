@@ -6,7 +6,7 @@ This is a simple Satellite Command System implemented in Java. The Source code i
 
 ## Features
  - Display State: View the current orientation, status of solar panels, and data collected by the satellite.
- - 
+   
  - Rotate: Implement a command called 'rotate' that takes a direction parameter (North, South, East, West) and sets the satellite's
 orientation accordingly.
 Example: rotate(North) would set the orientation to "North".
